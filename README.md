@@ -1,13 +1,13 @@
 <div align="center">
 
-# Hi, I'm Charli 👋
+# Hi, I'm Chang Li 👋
 
 ### AI Training • Data Annotation • SQL Analytics
 
 *Exploring the intersection of human intelligence,
 artificial intelligence, and data-driven decision-making.*
 
-![Profile Views](https://komarev.com/ghpvc/?username=itscharli&color=0e7490&style=flat-square)
+![Portfolio](https://img.shields.io/badge/Focus-AI%20Operations%20%26%20Data%20Quality-0E7490?style=flat-square)
 
 </div>
 
